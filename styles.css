@@ -1,16 +1,16 @@
 body {
-    color: white;
+    color: rgb(0, 0, 0);
     background: black;
     margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
-    margin-bottom: 100px;
+    font-family: "Nerko One", cursive;
+    margin-bottom: 10px;
 }
 
 header {
-    border-bottom: solid 5px rgb(255, 255, 255);
+    border-bottom: solid 5px rgb(235, 215, 129);
     padding: 20px;
     font-size: 32px;
-    color: rgb(255, 255, 255);
+    color: rgb(235, 215, 129);
     text-align: center;
 }
 
